@@ -2,4 +2,10 @@
 title: "About"
 ---
 
-Lela Sengupta
+## About Me
+
+My name is **Lela Sengupta** and I'm a rising freshman at *Tufts University*.
+
+
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
